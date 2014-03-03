@@ -18,6 +18,13 @@ h1, h2 {
 #notes {
   color: #fff;
 }
+code {
+font-size: 0.7em;
+}
+em {color: #a00;}
+.execute {
+  background-color:#FAF8D4;
+}
 </style>
 
 # About me #
@@ -57,9 +64,15 @@ h1, h2 {
 
 !SLIDE bullets incremental
 # What's not covered #
-* Various Ruby Implementations
-* Managing multiple Rubies
 * SASS, CoffeeScript
-* Nested forms
-* Deploying Rails apps
+* Git
+* Test Driven Development
+* Metaprogramming
+
+~~~SECTION:notes~~~
+
+* but you will be able to create fully functional rails app
+
+~~~ENDSECTION~~~
+
 
