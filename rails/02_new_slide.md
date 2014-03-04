@@ -46,7 +46,7 @@
       [2014-03-04 17:13:07] INFO  ruby 2.0.0 (2013-06-27) [x86_64-darwin12.4.0]
       [2014-03-04 17:13:07] INFO  WEBrick::HTTPServer#start: pid=2867 port=3000
 
-* _rails s_
+_rails s_
 
 !SLIDE commandline incremental
 # rails command #
@@ -65,7 +65,7 @@
       create      app/assets/javascripts/welcome.js.coffee
       invoke    scss
       create      app/assets/stylesheets/welcome.css.scss
-* _rails g_
+_rails g_
 
 !SLIDE incremental bullets
 # Demo #
@@ -98,7 +98,7 @@
       create      app/views/books/show.html.erb
       create      app/views/books/new.html.erb
       create      app/views/books/_form.html.erb
-* _string_ datatype is optional
+_string_ datatype is optional
 
 !SLIDE commandline incremental
 # rails command #
