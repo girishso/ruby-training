@@ -27,7 +27,7 @@ em {color: #a00;}
 }
 </style>
 
-# About me #
+# Who am I? #
 
 * Girish Sonawane
 * ![Alt text](../images/cuberoot.png)
@@ -42,7 +42,7 @@ em {color: #a00;}
 
 
 !SLIDE
-# About me #
+# Who am I? #
 
 * girish@cuberoot.in
 * @girishso
@@ -76,3 +76,7 @@ em {color: #a00;}
 ~~~ENDSECTION~~~
 
 
+!SLIDE bullets incremental
+## Ruby / Ruby on Rails ##
+* Ruby is a _language_
+* Rails is a web _framework_ written in Ruby

@@ -8,9 +8,14 @@
 ## Ruby ##
 * Interpreted language
 * Automatic memory management _think Java GC_
-* Written in C
+* Developer friendly
 * Open source
 * Can be embedded in HTML, Javascript, CSS
+
+!SLIDE bullets incremental
+# Ruby Tools #
+* irb
+* gem
 
 !SLIDE
 ## fully object oriented;  everything is an object. ##
@@ -46,7 +51,7 @@
       age = 24
       height = 60.7
 
-!SLIDE
+!SLIDE small
 ## String ##
     @@@ ruby
       name = 'manish'
@@ -126,7 +131,7 @@
         when 0..10
           "tens"
         when 10..20
-          "twentys"
+          "twenties"
         when 20..30
           "thirties"
         else
@@ -144,6 +149,12 @@
       for e in [1, 2, 3] do
         puts e * 2
       end
+~~~SECTION:notes~~~
+
+* while, until, loop
+
+~~~ENDSECTION~~~
+
 !SLIDE
 ## Methods ##
     @@@ ruby
@@ -162,19 +173,21 @@
       sum 2, 5 #=> 7
 
 
-!SLIDE bullets incremental
+!SLIDE bullets incremental small
 ## Ruby Conventions ##
 * Class names begin with upper case letters.
-* Method and variable names use lower case.
 * Class names use camel case  __ActiveRecord__
+* Method and variable names use lower case.
 * Method and variable names separate words with underscores.
 * __def show_person__
 * __@little_girl__
 
 
-!SLIDE bullets incremental
+!SLIDE bullets incremental small
 ## Ruby Conventions ##
 * 2 space indentation
-* methods that answer some query, append __"?"__
+* methods that answer some query, append _"?"_
 * e.g. def palindrome?
+* methods that are destructive, append _"!"_
+* e.g. String#reverse!
 

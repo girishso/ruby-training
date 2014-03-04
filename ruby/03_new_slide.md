@@ -16,9 +16,11 @@
         def move(to) # instance method
           "moved to #{to}"
         end
+      end
 
 !SLIDE
     @@@ ruby
+      class Car
         def name=(name) # Basic setter method
           @name = name
         end
