@@ -20,20 +20,50 @@
 * Minimal code - maximal effect
 
 !SLIDE incremental bullets
-# MVC #
+# Rails Jargon #
+## MVC ##
 * Model-View-Controller
 *  ![Alt text](../images/mvc.jpg)
+
+!SLIDE incremental bullets
+# Rails Jargon #
+## Environments ##
+* development
+* test
+* production
+
+!SLIDE incremental bullets
+# Rails Jargon #
+## Assets ##
+* javascript/coffeescript
+* css/sass
+* images
+
+!SLIDE incremental bullets
+# Rails Jargon #
+## Migrations ##
+* Data Definition Language
+* auto-generated
+
+!SLIDE incremental bullets
+# Rails Jargon #
+## Seeds ##
+* Initial seed data for development
+
+!SLIDE incremental bullets
+# Rails Jargon #
+## Bundler ##
+
 
 !SLIDE incremental bullets
 # IDEs #
 * No IDE
 * Command line tools
 
-
-
-!SLIDE
+!SLIDE bullets incremental
 # Tools #
 * rails
-* 
-* Command line tools
+* bundler
+* rake
+
 

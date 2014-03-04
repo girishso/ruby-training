@@ -25,6 +25,10 @@ em {color: #a00;}
 .execute {
   background-color:#FAF8D4;
 }
+.commandline code.command {
+  font-size: 1.1em;
+color: #F30C0C;
+}
 </style>
 
 # Who am I? #
