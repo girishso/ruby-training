@@ -58,6 +58,9 @@
 !SLIDE incremental bullets
 # IDEs #
 * No IDE
+* Sublime Text 2
+* VIM
+* Emacs
 * Command line tools
 
 !SLIDE bullets incremental

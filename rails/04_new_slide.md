@@ -25,3 +25,37 @@
 # RESTful Rails #
 * ![Alt text](../images/rest.jpg)
 
+!SLIDE incremental bullets
+# Routes #
+* RESTful
+
+
+!SLIDE incremental bullets
+# Migrations #
+* rails g migration
+
+
+!SLIDE incremental bullets
+# Models #
+* ActiveRecord - ORM
+* validations
+* callbacks
+* associations
+* queries
+
+!SLIDE incremental bullets
+# Controllers #
+* ActionController
+* ApplicationController
+* default actions
+* adding new actions
+* strong parameters
+* filters
+
+!SLIDE incremental bullets
+# Views #
+* erb
+* layouts
+* forms
+* partials
+
